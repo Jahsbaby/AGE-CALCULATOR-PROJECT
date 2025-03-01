@@ -25,7 +25,7 @@ The **Age Calculator** is a simple web application built with **HTML, CSS, and J
 I created this project to practice **JavaScript date manipulation** and improve my skills in **frontend development and user experience design**.  
 
 ## **📌 Future Improvements**  
-🔹 Add an option to calculate age for past/future dates  
+🔹 Add an option to calculate age for future dates  
 🔹 Improve UI with animations and themes  
 🔹 Allow users to save multiple birthdates  
 
